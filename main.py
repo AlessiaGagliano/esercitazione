@@ -1,0 +1,6 @@
+print("Buongiorno io sono Alessia")
+a = str(input("Dimmi il tuo nome"))
+print("ciao", a)
+b = str(input("Quanti anni hai?"))
+print("Ora so che hai", b, "anni")
+print("benvenuto")
